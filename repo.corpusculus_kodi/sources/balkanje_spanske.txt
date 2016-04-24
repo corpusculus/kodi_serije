@@ -38,52 +38,6 @@
 ["Fortuna","http://www.balkanje.com/browse-fortuna-videos-",""], 
 ["Grad snova","http://www.balkanje.com/browse-grad-snova-videos-",""], 
 ["Gresne duse","http://www.balkanje.com/browse-gresne-duse-videos-",""], 
-["","http://www.balkanje.com/browse-ima-li-koga-tamo-videos-",""], class="">Ima li koga tamo</a>	</li>
-["","http://www.balkanje.com/browse-istinska-ljubav-videos-",""], class="">Istinska ljubav</a>	</li>
-["","http://www.balkanje.com/browse-italijanka-videos-",""], class="">Italijanka</a>	</li>
-["","http://www.balkanje.com/browse-kad-srce-kaze-da-videos-",""], class="">Kad srce kaze da</a>	</li>
-["","http://www.balkanje.com/browse-kameleoni-videos-",""], class="">Kameleoni</a>	</li>
-["","http://www.balkanje.com/browse-kasandra-videos-",""], class="">Kasandra</a>	</li>
-["","http://www.balkanje.com/browse-kraljica-juga-videos-",""], class="">Kraljica Juga</a>	</li>
-["","http://www.balkanje.com/browse-Lavirint-strasti-videos-",""], class="">Lavirint Strasti</a>	</li>
-["","http://www.balkanje.com/browse-ljubav-bez-granica-videos-",""], class="">Ljubav Bez Granica</a>	</li>
-["","http://www.balkanje.com/browse-ljubav-je-vecna-videos-",""], class="">Ljubav je Vecna</a>	</li>
-["","http://www.balkanje.com/browse-ljubav-na-kocki-videos-",""], class="">Ljubav na kocki</a>	</li>
-["","http://www.balkanje.com/browse-Luz-Maria-videos-",""], class="">Luz Maria</a>	</li>
-["","http://www.balkanje.com/browse-Misterija-Kalende-videos-",""], class="">Misterija Kalende</a>	</li>
-["","http://www.balkanje.com/browse-moc-sudbine-videos-",""], class="">Moc Sudbine</a>	</li>
-["","http://www.balkanje.com/browse-moje-prijateljice-videos-",""], class="">Moje Prijateljice</a>	</li>
-["","http://www.balkanje.com/browse-Moje-srce-kuca-za-Lolu-videos-",""], class="">Moje srce kuca za Lolu</a>	</li>
-["","http://www.balkanje.com/browse-muskarci-ih-vole-glupe-videos-",""], class="">Muskarci ih vole glupe</a>	</li>
-["","http://www.balkanje.com/browse-na-granici-videos-",""], class="">Na granici</a>	</li>
-["","http://www.balkanje.com/browse-napusteni-andjeo-videos-",""], class="">Napusteni Andjeo</a>	</li>
-["","http://www.balkanje.com/browse-naslednici-videos-",""], class="">Naslednici</a>	</li>
-["","http://www.balkanje.com/browse-nasljednica-s-vendavala-videos-",""], class="">Nasljednica s Vendavala</a>	</li>
-["","http://www.balkanje.com/browse-ne-ostavljaj-me-videos-",""], class="">Ne ostavljaj me</a>	</li>
-["","http://www.balkanje.com/browse-ne-verujem-u-muskarce-videos-",""], class="">Ne verujem u muskarce</a>	</li>
-["","http://www.balkanje.com/browse-neko-te-posmatra-videos-",""], class="">Neko te posmatra</a>	</li>
-["","http://www.balkanje.com/browse-neoprostivi-greh-videos-",""], class="">Neoprostivi greh</a>	</li>
-["","http://www.balkanje.com/browse-neukrotivo-srce-videos-",""], class="">Neukrotivo srce / Divlja u srcu</a>	</li>
-["","http://www.balkanje.com/browse-nevoljena-videos-",""], class="">Nevoljena</a>	</li>
-["","http://www.balkanje.com/browse-Obitelj-Rey-videos-",""], class="">Obitelj Rey</a>	</li>
-["","http://www.balkanje.com/browse-oluja-la-tempestad-videos-",""], class="">Oluja - La Tempestad</a>	</li>
-["","http://www.balkanje.com/browse-oluja-strasti-videos-",""], class="">Oluja strasti</a>	</li>
-["","http://www.balkanje.com/browse-oluja-u-raju-videos-",""], class="">Oluja u raju</a>	</li>
-["","http://www.balkanje.com/browse-ono-sto-mi-je-zivot-ukrao-videos-",""], class="">Ono sto mi je zivot ukrao</a>	</li>
-["","http://www.balkanje.com/browse-opasne-igre-videos-",""], class="">Opasne Igre</a>	</li>
-["","http://www.balkanje.com/browse-operacija-pilot-videos-",""], class="">Operacija pilot</a>	</li>
-["","http://www.balkanje.com/browse-pakov-svet-videos-",""], class="">Pakov svet</a>	</li>
-["","http://www.balkanje.com/browse-pepeljuga-videos-",""], class="">Pepeljuga</a>	</li>
-["","http://www.balkanje.com/browse-plamen-ljubavi-videos-",""], class="">Plamen ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-pobjeda-ljubavi-videos-",""], class="">Pobjeda ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-pod-sumnjom-videos-",""], class="">Pod sumnjom</a>	</li>
-["","http://www.balkanje.com/browse-ponor-ljubavi-videos-",""], class="">Ponor ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-porodica-serano-videos-",""], class="">Porodica Serano</a>	</li>
-["","http://www.balkanje.com/browse-prave-ljubavi-videos-",""], class="">Prave ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-princ-videos-",""], class="">Princ</a>	</li>
-["","http://www.balkanje.com/browse-principe-videos-",""], class="">Principe</a>	</li>
-["","http://www.balkanje.com/browse-prkosna-ljubav-videos-",""], class="">Prkosna Ljubav</a>	</li>
-["","http://www.balkanje.com/browse-prva-dama-videos-",""], class="">Prva Dama</a>	</li>
 ["Rame uz rame","http://www.balkanje.com/browse-rame-uz-rame-videos-",""], 
 ["Robinzon Kruso","http://www.balkanje.com/browse-Robinzon-Kruso-videos-",""], 
 ["Rosalinda","http://www.balkanje.com/browse-rosalinda-videos-",""], 

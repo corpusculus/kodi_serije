@@ -699,7 +699,7 @@ elif mode[0]=='serije_cat':
         serije_balk=get_show_list_cod('https://raw.githubusercontent.com/natko1412/cod/master/domace.txt')
 
     elif cat=='esp':
-        serije_balk=get_show_list_cod('https://raw.githubusercontent.com/corpusculus/kodi/master/balkanje_spanske')
+        serije_balk=get_show_list_cod('https://raw.githubusercontent.com/corpusculus/kodi_serije/master/repo.corpusculus_kodi/sources/balkanje_spanske')
 
     elif cat=='tur':
         serije_balk=get_show_list_cod('https://github.com/natko1412/cod/raw/master/turske.txt')

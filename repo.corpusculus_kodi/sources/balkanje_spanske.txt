@@ -12,7 +12,6 @@
 
 ["Amazonke","http://www.balkanje.com/browse-amazonke-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"],
 
-<<<<<<< HEAD
 ["Aniela","http://www.balkanje.com/browse-aniela-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
 
 ["Avenida Brasil","http://www.balkanje.com/browse-Avenida-Brasil-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 

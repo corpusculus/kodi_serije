@@ -6,112 +6,114 @@
 
 ["Dona Barbara","http://www.balkanje.com/browse-dona-barbara-videos-","https://upload.wikimedia.org/wikipedia/en/4/40/Dona_Barbara_poster_2008.jpg"],
 
-["Pobjeda ljubavi","http://www.balkanje.com/browse-pobjeda-ljubavi-videos-","http://phazer.info/img/covers/img14918-tv0-triunfo-del-amor-200.jpg"]
+["Pobjeda ljubavi","http://www.balkanje.com/browse-pobjeda-ljubavi-videos-","http://phazer.info/img/covers/img14918-tv0-triunfo-del-amor-200.jpg"],
 
-["Princ","http://www.balkanje.com/browse-princ-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"]
+["Princ","http://www.balkanje.com/browse-princ-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"],
 
+["Amazonke","http://www.balkanje.com/browse-amazonke-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"],
 
-["Amazonke","http://www.balkanje.com/browse-amazonke-videos-",""],
-["Aniela","http://www.balkanje.com/browse-aniela-videos-",""], 
-["Avenida Brasil","http://www.balkanje.com/browse-Avenida-Brasil-videos-",""], 
-["BB","http://www.balkanje.com/browse-bb-videos-",""],
-["Barka","http://www.balkanje.com/browse-barka-videos-",""], 
-["Bekstvo","http://www.balkanje.com/browse-bekstvo-videos-",""], 
-["Bez identiteta","http://www.balkanje.com/browse-bez-identiteta-videos-",""], 
-["Blizanke","http://www.balkanje.com/browse-blizanke-videos-",""], 
-["Boja strasti","http://www.balkanje.com/browse-boja-strasti-videos-",""], 
-["Braca","http://www.balkanje.com/browse-braca-videos-",""], 
-["Celicna zena","http://www.balkanje.com/browse-celicna-zena-videos-",""], 
-["Crveni Orao","http://www.balkanje.com/browse-crveni-orao-videos-",""], 
-["Divlja macka","http://www.balkanje.com/browse-divlja-macka-videos-",""], 
-["Divlja Ruza","http://www.balkanje.com/browse-divlja-ruza-videos-",""], 
-["Divlja u srcu","http://www.balkanje.com/browse-divlja-u-srcu-videos-",""], 
-["Dona Barbara","http://www.balkanje.com/browse-dona-barbara-videos-",""], 
-["Dragocjeni biser","http://www.balkanje.com/browse-dragocjeni-biser-videos-",""], 
-["Druga strana ljubavi","http://www.balkanje.com/browse-Druga-strana-ljubavi-videos-",""], 
-["Dva mjeseca","http://www.balkanje.com/browse-dva-mjeseca-videos-",""], 
-["Elena","http://www.balkanje.com/browse-elena-videos-",""], 
-["Emperatriz","http://www.balkanje.com/browse-emperatriz-videos-",""], 
-["Eskobar: Gospodar zla","http://www.balkanje.com/browse-eskobar-videos-",""], 
-["Eva Luna","http://www.balkanje.com/browse-eva-luna-videos-",""], 
-["Fatalna ljubav","http://www.balkanje.com/browse-fatalna-ljubav-videos-",""], 
-["Fortuna","http://www.balkanje.com/browse-fortuna-videos-",""], 
-["Grad snova","http://www.balkanje.com/browse-grad-snova-videos-",""], 
-["Gresne duse","http://www.balkanje.com/browse-gresne-duse-videos-",""], 
-["","http://www.balkanje.com/browse-ima-li-koga-tamo-videos-",""], class="">Ima li koga tamo</a>	</li>
-["","http://www.balkanje.com/browse-istinska-ljubav-videos-",""], class="">Istinska ljubav</a>	</li>
-["","http://www.balkanje.com/browse-italijanka-videos-",""], class="">Italijanka</a>	</li>
-["","http://www.balkanje.com/browse-kad-srce-kaze-da-videos-",""], class="">Kad srce kaze da</a>	</li>
-["","http://www.balkanje.com/browse-kameleoni-videos-",""], class="">Kameleoni</a>	</li>
-["","http://www.balkanje.com/browse-kasandra-videos-",""], class="">Kasandra</a>	</li>
-["","http://www.balkanje.com/browse-kraljica-juga-videos-",""], class="">Kraljica Juga</a>	</li>
-["","http://www.balkanje.com/browse-Lavirint-strasti-videos-",""], class="">Lavirint Strasti</a>	</li>
-["","http://www.balkanje.com/browse-ljubav-bez-granica-videos-",""], class="">Ljubav Bez Granica</a>	</li>
-["","http://www.balkanje.com/browse-ljubav-je-vecna-videos-",""], class="">Ljubav je Vecna</a>	</li>
-["","http://www.balkanje.com/browse-ljubav-na-kocki-videos-",""], class="">Ljubav na kocki</a>	</li>
-["","http://www.balkanje.com/browse-Luz-Maria-videos-",""], class="">Luz Maria</a>	</li>
-["","http://www.balkanje.com/browse-Misterija-Kalende-videos-",""], class="">Misterija Kalende</a>	</li>
-["","http://www.balkanje.com/browse-moc-sudbine-videos-",""], class="">Moc Sudbine</a>	</li>
-["","http://www.balkanje.com/browse-moje-prijateljice-videos-",""], class="">Moje Prijateljice</a>	</li>
-["","http://www.balkanje.com/browse-Moje-srce-kuca-za-Lolu-videos-",""], class="">Moje srce kuca za Lolu</a>	</li>
-["","http://www.balkanje.com/browse-muskarci-ih-vole-glupe-videos-",""], class="">Muskarci ih vole glupe</a>	</li>
-["","http://www.balkanje.com/browse-na-granici-videos-",""], class="">Na granici</a>	</li>
-["","http://www.balkanje.com/browse-napusteni-andjeo-videos-",""], class="">Napusteni Andjeo</a>	</li>
-["","http://www.balkanje.com/browse-naslednici-videos-",""], class="">Naslednici</a>	</li>
-["","http://www.balkanje.com/browse-nasljednica-s-vendavala-videos-",""], class="">Nasljednica s Vendavala</a>	</li>
-["","http://www.balkanje.com/browse-ne-ostavljaj-me-videos-",""], class="">Ne ostavljaj me</a>	</li>
-["","http://www.balkanje.com/browse-ne-verujem-u-muskarce-videos-",""], class="">Ne verujem u muskarce</a>	</li>
-["","http://www.balkanje.com/browse-neko-te-posmatra-videos-",""], class="">Neko te posmatra</a>	</li>
-["","http://www.balkanje.com/browse-neoprostivi-greh-videos-",""], class="">Neoprostivi greh</a>	</li>
-["","http://www.balkanje.com/browse-neukrotivo-srce-videos-",""], class="">Neukrotivo srce / Divlja u srcu</a>	</li>
-["","http://www.balkanje.com/browse-nevoljena-videos-",""], class="">Nevoljena</a>	</li>
-["","http://www.balkanje.com/browse-Obitelj-Rey-videos-",""], class="">Obitelj Rey</a>	</li>
-["","http://www.balkanje.com/browse-oluja-la-tempestad-videos-",""], class="">Oluja - La Tempestad</a>	</li>
-["","http://www.balkanje.com/browse-oluja-strasti-videos-",""], class="">Oluja strasti</a>	</li>
-["","http://www.balkanje.com/browse-oluja-u-raju-videos-",""], class="">Oluja u raju</a>	</li>
-["","http://www.balkanje.com/browse-ono-sto-mi-je-zivot-ukrao-videos-",""], class="">Ono sto mi je zivot ukrao</a>	</li>
-["","http://www.balkanje.com/browse-opasne-igre-videos-",""], class="">Opasne Igre</a>	</li>
-["","http://www.balkanje.com/browse-operacija-pilot-videos-",""], class="">Operacija pilot</a>	</li>
-["","http://www.balkanje.com/browse-pakov-svet-videos-",""], class="">Pakov svet</a>	</li>
-["","http://www.balkanje.com/browse-pepeljuga-videos-",""], class="">Pepeljuga</a>	</li>
-["","http://www.balkanje.com/browse-plamen-ljubavi-videos-",""], class="">Plamen ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-pobjeda-ljubavi-videos-",""], class="">Pobjeda ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-pod-sumnjom-videos-",""], class="">Pod sumnjom</a>	</li>
-["","http://www.balkanje.com/browse-ponor-ljubavi-videos-",""], class="">Ponor ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-porodica-serano-videos-",""], class="">Porodica Serano</a>	</li>
-["","http://www.balkanje.com/browse-prave-ljubavi-videos-",""], class="">Prave ljubavi</a>	</li>
-["","http://www.balkanje.com/browse-princ-videos-",""], class="">Princ</a>	</li>
-["","http://www.balkanje.com/browse-principe-videos-",""], class="">Principe</a>	</li>
-["","http://www.balkanje.com/browse-prkosna-ljubav-videos-",""], class="">Prkosna Ljubav</a>	</li>
-["","http://www.balkanje.com/browse-prva-dama-videos-",""], class="">Prva Dama</a>	</li>
-["Rame uz rame","http://www.balkanje.com/browse-rame-uz-rame-videos-",""], 
-["Robinzon Kruso","http://www.balkanje.com/browse-Robinzon-Kruso-videos-",""], 
-["Rosalinda","http://www.balkanje.com/browse-rosalinda-videos-",""], 
-["Rubi","http://www.balkanje.com/browse-rubi-videos-",""], 
-["Ruzna Beti","http://www.balkanje.com/browse-ruzna-beti-videos-",""], 
-["Salome","http://www.balkanje.com/browse-salome-videos-",""], 
-["Slomljeno Srce","http://www.balkanje.com/browse-slomljeno-srce-videos-",""], 
-["Sobarica sa Menhetna","http://www.balkanje.com/browse-sobarica-sa-menhetna-videos-",""], 
-["Strast","http://www.balkanje.com/browse-strast-videos-",""], 
-["Tajna ljubav","http://www.balkanje.com/browse-tajna-ljubav-videos-",""], 
-["Teresa","http://www.balkanje.com/browse-teresa-videos-",""], 
-["Udovice","http://www.balkanje.com/browse-udovice-videos-",""], 
-["Ukradeni Zivoti","http://www.balkanje.com/browse-ukradeni-zivoti-videos-",""], 
-["Valentina","http://www.balkanje.com/browse-valentina-videos-",""], 
-["Vampirski dnevnici","http://www.balkanje.com/browse-vampirski-dnevnici-videos-",""], 
-["Vatreno Nebo","http://www.balkanje.com/browse-vatreno-nebo-videos-",""], 
-["Velicanstveni hotel","http://www.balkanje.com/browse-velicanstveni-hotel-videos-",""], 
-["Velvet","http://www.balkanje.com/browse-velvet-videos-",""], 
-["Veterinar","http://www.balkanje.com/browse-veterinar-videos-",""], 
-["Vino strasti","http://www.balkanje.com/browse-vino-strasti-videos-",""], 
-["Za tvoju ljubav","http://www.balkanje.com/browse-za-tvoju-ljubav-videos-",""], 
-["Zabranjena Ljubav","http://www.balkanje.com/browse-zabranjena-ljubav-videos-",""], 
-["Zabranjena strast","http://www.balkanje.com/browse-zabranjena-strast-videos-",""], 
-["Zabranjena zena","http://www.balkanje.com/browse-zabranjena-zena-videos-",""], 
-["Zasticeni","http://www.balkanje.com/browse-zasticeni-videos-",""], 
-["Zauvek Zaljubljeni","http://www.balkanje.com/browse-Zauvek-Zaljubljeni-videos-",""], 
-["Zavet ljubavi","http://www.balkanje.com/browse-zavet-ljubavi-videos-",""], 
-["Zivot tece dalje","http://www.balkanje.com/browse-zivot-tece-dalje-videos-",""], 
-["Zlobnica","http://www.balkanje.com/browse-zlobnica-videos-",""], 
-["Znaj da te volim","http://www.balkanje.com/browse-znaj-da-te-volim-videos-",""], 
-["Zora","http://www.balkanje.com/browse-zora-videos-",""], 
+["Aniela","http://www.balkanje.com/browse-aniela-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+
+["Avenida Brasil","http://www.balkanje.com/browse-Avenida-Brasil-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+
+["BB","http://www.balkanje.com/browse-bb-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"],
+
+["Barka","http://www.balkanje.com/browse-barka-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Bekstvo","http://www.balkanje.com/browse-bekstvo-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Bez identiteta","http://www.balkanje.com/browse-bez-identiteta-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Blizanke","http://www.balkanje.com/browse-blizanke-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Boja strasti","http://www.balkanje.com/browse-boja-strasti-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Braca","http://www.balkanje.com/browse-braca-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Celicna zena","http://www.balkanje.com/browse-celicna-zena-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Crveni Orao","http://www.balkanje.com/browse-crveni-orao-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Divlja macka","http://www.balkanje.com/browse-divlja-macka-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Divlja Ruza","http://www.balkanje.com/browse-divlja-ruza-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Divlja u srcu","http://www.balkanje.com/browse-divlja-u-srcu-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Dona Barbara","http://www.balkanje.com/browse-dona-barbara-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Dragocjeni biser","http://www.balkanje.com/browse-dragocjeni-biser-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Druga strana ljubavi","http://www.balkanje.com/browse-Druga-strana-ljubavi-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Dva mjeseca","http://www.balkanje.com/browse-dva-mjeseca-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Elena","http://www.balkanje.com/browse-elena-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Emperatriz","http://www.balkanje.com/browse-emperatriz-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Eskobar: Gospodar zla","http://www.balkanje.com/browse-eskobar-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Eva Luna","http://www.balkanje.com/browse-eva-luna-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Fatalna ljubav","http://www.balkanje.com/browse-fatalna-ljubav-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Fortuna","http://www.balkanje.com/browse-fortuna-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Grad snova","http://www.balkanje.com/browse-grad-snova-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Gresne duse","http://www.balkanje.com/browse-gresne-duse-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["","http://www.balkanje.com/browse-ima-li-koga-tamo-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ima li koga tamo</a>	</li>
+["","http://www.balkanje.com/browse-istinska-ljubav-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Istinska ljubav</a>	</li>
+["","http://www.balkanje.com/browse-italijanka-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Italijanka</a>	</li>
+["","http://www.balkanje.com/browse-kad-srce-kaze-da-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Kad srce kaze da</a>	</li>
+["","http://www.balkanje.com/browse-kameleoni-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Kameleoni</a>	</li>
+["","http://www.balkanje.com/browse-kasandra-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Kasandra</a>	</li>
+["","http://www.balkanje.com/browse-kraljica-juga-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Kraljica Juga</a>	</li>
+["","http://www.balkanje.com/browse-Lavirint-strasti-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Lavirint Strasti</a>	</li>
+["","http://www.balkanje.com/browse-ljubav-bez-granica-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ljubav Bez Granica</a>	</li>
+["","http://www.balkanje.com/browse-ljubav-je-vecna-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ljubav je Vecna</a>	</li>
+["","http://www.balkanje.com/browse-ljubav-na-kocki-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ljubav na kocki</a>	</li>
+["","http://www.balkanje.com/browse-Luz-Maria-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Luz Maria</a>	</li>
+["","http://www.balkanje.com/browse-Misterija-Kalende-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Misterija Kalende</a>	</li>
+["","http://www.balkanje.com/browse-moc-sudbine-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Moc Sudbine</a>	</li>
+["","http://www.balkanje.com/browse-moje-prijateljice-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Moje Prijateljice</a>	</li>
+["","http://www.balkanje.com/browse-Moje-srce-kuca-za-Lolu-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Moje srce kuca za Lolu</a>	</li>
+["","http://www.balkanje.com/browse-muskarci-ih-vole-glupe-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Muskarci ih vole glupe</a>	</li>
+["","http://www.balkanje.com/browse-na-granici-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Na granici</a>	</li>
+["","http://www.balkanje.com/browse-napusteni-andjeo-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Napusteni Andjeo</a>	</li>
+["","http://www.balkanje.com/browse-naslednici-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Naslednici</a>	</li>
+["","http://www.balkanje.com/browse-nasljednica-s-vendavala-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Nasljednica s Vendavala</a>	</li>
+["","http://www.balkanje.com/browse-ne-ostavljaj-me-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ne ostavljaj me</a>	</li>
+["","http://www.balkanje.com/browse-ne-verujem-u-muskarce-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ne verujem u muskarce</a>	</li>
+["","http://www.balkanje.com/browse-neko-te-posmatra-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Neko te posmatra</a>	</li>
+["","http://www.balkanje.com/browse-neoprostivi-greh-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Neoprostivi greh</a>	</li>
+["","http://www.balkanje.com/browse-neukrotivo-srce-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Neukrotivo srce / Divlja u srcu</a>	</li>
+["","http://www.balkanje.com/browse-nevoljena-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Nevoljena</a>	</li>
+["","http://www.balkanje.com/browse-Obitelj-Rey-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Obitelj Rey</a>	</li>
+["","http://www.balkanje.com/browse-oluja-la-tempestad-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Oluja - La Tempestad</a>	</li>
+["","http://www.balkanje.com/browse-oluja-strasti-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Oluja strasti</a>	</li>
+["","http://www.balkanje.com/browse-oluja-u-raju-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Oluja u raju</a>	</li>
+["","http://www.balkanje.com/browse-ono-sto-mi-je-zivot-ukrao-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ono sto mi je zivot ukrao</a>	</li>
+["","http://www.balkanje.com/browse-opasne-igre-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Opasne Igre</a>	</li>
+["","http://www.balkanje.com/browse-operacija-pilot-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Operacija pilot</a>	</li>
+["","http://www.balkanje.com/browse-pakov-svet-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Pakov svet</a>	</li>
+["","http://www.balkanje.com/browse-pepeljuga-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Pepeljuga</a>	</li>
+["","http://www.balkanje.com/browse-plamen-ljubavi-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Plamen ljubavi</a>	</li>
+["","http://www.balkanje.com/browse-pobjeda-ljubavi-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Pobjeda ljubavi</a>	</li>
+["","http://www.balkanje.com/browse-pod-sumnjom-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Pod sumnjom</a>	</li>
+["","http://www.balkanje.com/browse-ponor-ljubavi-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Ponor ljubavi</a>	</li>
+["","http://www.balkanje.com/browse-porodica-serano-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Porodica Serano</a>	</li>
+["","http://www.balkanje.com/browse-prave-ljubavi-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Prave ljubavi</a>	</li>
+["","http://www.balkanje.com/browse-principe-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Principe</a>	</li>
+["","http://www.balkanje.com/browse-prkosna-ljubav-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Prkosna Ljubav</a>	</li>
+["","http://www.balkanje.com/browse-prva-dama-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], class="">Prva Dama</a>	</li>
+["Rame uz rame","http://www.balkanje.com/browse-rame-uz-rame-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Robinzon Kruso","http://www.balkanje.com/browse-Robinzon-Kruso-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Rosalinda","http://www.balkanje.com/browse-rosalinda-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Rubi","http://www.balkanje.com/browse-rubi-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Ruzna Beti","http://www.balkanje.com/browse-ruzna-beti-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Salome","http://www.balkanje.com/browse-salome-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Slomljeno Srce","http://www.balkanje.com/browse-slomljeno-srce-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Sobarica sa Menhetna","http://www.balkanje.com/browse-sobarica-sa-menhetna-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Strast","http://www.balkanje.com/browse-strast-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Tajna ljubav","http://www.balkanje.com/browse-tajna-ljubav-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Teresa","http://www.balkanje.com/browse-teresa-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Udovice","http://www.balkanje.com/browse-udovice-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Ukradeni Zivoti","http://www.balkanje.com/browse-ukradeni-zivoti-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Valentina","http://www.balkanje.com/browse-valentina-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Vampirski dnevnici","http://www.balkanje.com/browse-vampirski-dnevnici-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Vatreno Nebo","http://www.balkanje.com/browse-vatreno-nebo-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Velicanstveni hotel","http://www.balkanje.com/browse-velicanstveni-hotel-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Velvet","http://www.balkanje.com/browse-velvet-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Veterinar","http://www.balkanje.com/browse-veterinar-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Vino strasti","http://www.balkanje.com/browse-vino-strasti-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Za tvoju ljubav","http://www.balkanje.com/browse-za-tvoju-ljubav-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zabranjena Ljubav","http://www.balkanje.com/browse-zabranjena-ljubav-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zabranjena strast","http://www.balkanje.com/browse-zabranjena-strast-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zabranjena zena","http://www.balkanje.com/browse-zabranjena-zena-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zasticeni","http://www.balkanje.com/browse-zasticeni-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zauvek Zaljubljeni","http://www.balkanje.com/browse-Zauvek-Zaljubljeni-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zavet ljubavi","http://www.balkanje.com/browse-zavet-ljubavi-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zivot tece dalje","http://www.balkanje.com/browse-zivot-tece-dalje-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zlobnica","http://www.balkanje.com/browse-zlobnica-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Znaj da te volim","http://www.balkanje.com/browse-znaj-da-te-volim-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
+["Zora","http://www.balkanje.com/browse-zora-videos-","http://phazer.info/img/covers/img75694-tv0.jpg"], 
